@@ -12,4 +12,4 @@ created data html to be able to publish on local browser
 created style folder
 
 added style file style.css
-added 
+added style file visulization.css
