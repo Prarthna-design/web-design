@@ -13,3 +13,5 @@ created style folder
 
 added style file style.css
 added style file visulization.css
+
+created Comparision folder
