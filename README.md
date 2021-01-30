@@ -17,3 +17,5 @@ added style file visulization.css
 created Comparision folder
 
 added comparision.html file
+
+added Resource Folder 
