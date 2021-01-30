@@ -10,3 +10,5 @@ Formated data as requirement
 created data html to be able to publish on local browser
 
 created style folder
+
+added syle file style.css
