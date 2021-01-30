@@ -19,3 +19,5 @@ created Comparision folder
 added comparision.html file
 
 added Resource Folder 
+
+moved csv file to resource folder
