@@ -11,4 +11,5 @@ created data html to be able to publish on local browser
 
 created style folder
 
-added syle file style.css
+added style file style.css
+added 
